@@ -1,0 +1,24 @@
+# Build output and intermediate files
+bin/
+obj/
+.vs/
+artifacts/
+publish/
+
+# Runtime data and machine-specific diagnostics
+settings.json
+settings.json.*
+self-test-results.txt
+ui-test-results.txt
+startup-status.txt
+*.log
+*.dmp
+
+# Local release folders contain binaries and may contain local settings.
+releases/
+
+# IDE / OS files
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
